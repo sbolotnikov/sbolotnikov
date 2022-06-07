@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-bolotnikov-10035617/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sergey-bolotnikov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-bolotnikov-10035617/)
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -55,8 +55,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
 </div>
  :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbolotnikov&theme=prussian)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolotnikov)](https://github.com/sbolotnikov/github-readme-stats)
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbolotnikov&theme=prussian)](https://git.io/streak-stats)]
+ <img src="https://github-readme-stats.vercel.app/api?username=sbolotnikov&show_icons=true&theme=prussian" width="400">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolotnikov)](https://github.com/sbolotnikov/github-readme-stats)]
 
 
 <!--
