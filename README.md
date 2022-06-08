@@ -53,6 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
+  <img src="./greensock.png" title="GreenSock" **alt="GreenSock" width="40" height="40"/>
+  <img src="./sanity.png" title="Sanity IO" **alt="Sanity IO" width="40" height="40"/>
+  <img src="./styledComp.png" title="Styled Components" **alt="Styled Components" width="40" height="40"/>
 </div>
  :fire: My Stats :
  
