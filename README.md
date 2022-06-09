@@ -16,18 +16,19 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-:man_technologist: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+
+- :man_technologist: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 - :telescope: I’m working as a freelancer Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring REACT-native.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on hackerrank.com and read tech articles.
+- 😄 Fun fact: I do Ballroom Dancing.
+- 👯 I’m looking to collaborate on new interesting projects.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sergeybolotnikov-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-bolotnikov-10035617/) [![telephone](https://img.shields.io/badge/-(917)9162840-blue?style=for-the-badge&logo=whatsapp&logoColor=red)](tel:+19179162840)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sergeybolotnikov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-bolotnikov-10035617/)
+
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -69,6 +70,16 @@
 <!--START_SECTION:activity-->
 
 </details>
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Bobbie store](https://youtu.be/6TWGMW7uzoE)
+- [Quiz Land Tutorial](https://youtu.be/x116B9S0tX4)
+- [Employees Tracker App](https://youtu.be/T3FLJTATWkg)
+- [Team Info Chart](https://youtu.be/mlQAWMMPP2w)
+- [GitHub Project README](https://youtu.be/1ciovLM8FY4)
+<!-- YOUTUBE:END -->
 <!--
 **sbolotnikov/sbolotnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
