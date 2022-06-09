@@ -29,8 +29,8 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sergeybolotnikov-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-bolotnikov-10035617/) [![telephone](https://img.shields.io/badge/-(917)9162840-blue?style=for-the-badge&logo=whatsapp&logoColor=red)](tel:+19179162840)
 
 
-- ### :hammer_and_wrench: Languages and Tools :
-- <div>
+ ### :hammer_and_wrench: Languages and Tools :
+- <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -58,11 +58,13 @@
   <img src="./sanity.png" title="Sanity IO" **alt="Sanity IO" width="40" height="40"/>
   <img src="./styledComp.png" title="Styled Components" **alt="Styled Components" width="40" height="40"/>
 </div>
- :fire: My Stats :
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolotnikov)](https://github.com/sbolotnikov/github-readme-stats)]
- <img src="https://github-readme-stats.vercel.app/api?username=sbolotnikov&show_icons=true&theme=prussian" width="400"/>
+- :fire: My Stats :
+<div align="center">
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolotnikov)](https://github.com/sbolotnikov/github-readme-stats)
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=sbolotnikov&show_icons=true&theme=prussian" width="400"/>
+</div>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
