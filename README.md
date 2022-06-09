@@ -62,8 +62,12 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolotnikov)](https://github.com/sbolotnikov/github-readme-stats)]
  <img src="https://github-readme-stats.vercel.app/api?username=sbolotnikov&show_icons=true&theme=prussian" width="400"/>
 
-<!--START_SECTION:activity-->
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 <!--
 **sbolotnikov/sbolotnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
