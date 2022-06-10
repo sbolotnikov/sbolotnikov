@@ -58,7 +58,7 @@
   <img src="./sanity.png" title="Sanity IO" **alt="Sanity IO" width="40" height="40"/>
   <img src="./styledComp.png" title="Styled Components" **alt="Styled Components" width="40" height="40"/>
 </div>
-- :fire: My Stats :
+ :fire: My Stats :
 <div align="center">
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolotnikov)](https://github.com/sbolotnikov/github-readme-stats)
@@ -70,7 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 </details>
 
 ### 📺 Latest YouTube Videos
