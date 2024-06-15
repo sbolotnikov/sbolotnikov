@@ -57,6 +57,8 @@
   <img src="./greensock.png" title="GreenSock" **alt="GreenSock" width="40" height="40"/>
   <img src="./sanity.png" title="Sanity IO" **alt="Sanity IO" width="40" height="40"/>
   <img src="./styledComp.png" title="Styled Components" **alt="Styled Components" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" **alt="Prisma" width="40" height="40"/>
 </div>
  :fire: My Stats :
 <div align="center">
